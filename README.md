@@ -1,2 +1,5 @@
 # Areas_Calculator
-Calculate the Area of Different Chaped_C++
+A Calculator That Calculates the Area of Different Chapes, Like So
+
+# Sample OutPut
+
